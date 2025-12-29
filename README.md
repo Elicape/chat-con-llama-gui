@@ -137,3 +137,7 @@ al modelo local y recibir la respuesta.
 
 ### Este proyecto prioriza cerrar ciclos y conservar versiones funcionales
 frente a seguir añadiendo complejidad.
+=======
+# chat-con-llama-gui
+Publicación inicial: Chat con LLaMA v0.1 (GUI local histórica)
+
